@@ -1,0 +1,13 @@
+{
+    "app":{
+        "cfengine":"lucee@5"
+    },
+    "web":{
+        "http":{
+            "port":"8123"
+        },
+        "rewrites":{
+            "enable":"false"
+        }
+    }
+}

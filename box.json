@@ -1,0 +1,28 @@
+{
+    "name":"ashid",
+    "version":"1.0.0",
+    "author":"James Moberg",
+    "slug":"ashid",
+    "type":"modules",
+    "location":"https://github.com/jamoCA/cf-ashid/archive/v1.0.0.zip",
+    "shortDescription":"Time-sortable, prefixed unique identifiers using Crockford Base32. CFML port of agency.wilde:ashid.",
+    "homepage":"https://github.com/jamoCA/cf-ashid",
+    "documentation":"https://github.com/jamoCA/cf-ashid#readme",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/jamoCA/cf-ashid"
+    },
+    "license":[
+        {
+            "type":"MIT",
+            "URL":"https://opensource.org/licenses/MIT"
+        }
+    ],
+    "ignore":[
+        "**/.*",
+        "tests",
+        "benchmark",
+        "lib",
+        "docs"
+    ]
+}

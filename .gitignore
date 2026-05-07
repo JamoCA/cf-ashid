@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+.engine/
+.cfconfig.json
+.bx-server/
+modules/
+.boxr/
+WEB-INF/
+*.log
+.idea/
+.vscode/
+.cfformat.json
+docs/
+lib/
+
+# Per-engine dev server configs (server-ashid-acf.json, etc.)
+server-a*.json
