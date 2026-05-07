@@ -8,6 +8,7 @@
     "shortDescription":"Time-sortable, prefixed unique identifiers using Crockford Base32. CFML port of agency.wilde:ashid.",
     "homepage":"https://github.com/jamoCA/cf-ashid",
     "documentation":"https://github.com/jamoCA/cf-ashid#readme",
+    "bugs":"https://github.com/jamoCA/cf-ashid/issues",
     "repository":{
         "type":"git",
         "URL":"https://github.com/jamoCA/cf-ashid"

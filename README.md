@@ -167,6 +167,10 @@ curl "http://127.0.0.1:8123/tests/run.cfm?format=text"
 curl "http://127.0.0.1:8123/benchmark/run.cfm?n=100000"
 ```
 
+## Articles
+
+- [ashid for CFML: time-sortable, prefixed IDs without a JAR](https://www.mycfml.com/articles/ashid-for-cfml-time-sortable-prefixed-ids-without-a-jar/) - announcement post on myCFML covering the why, the BigInteger gotcha, and cross-engine performance.
+
 ## License
 
 MIT, mirrored from upstream `agency.wilde:ashid`. See [LICENSE](LICENSE).
