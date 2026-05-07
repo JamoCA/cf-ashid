@@ -1,5 +1,7 @@
 # ashid - CFML port
 
+[![ForgeBox Version](https://www.forgebox.io/api/v1/entry/ashid/badges/version)](https://www.forgebox.io/view/ashid)
+[![ForgeBox Downloads](https://www.forgebox.io/api/v1/entry/ashid/badges/downloads)](https://www.forgebox.io/view/ashid)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Time-sortable, prefixed unique identifiers using Crockford Base32. Pure-CFML port of [`agency.wilde:ashid`](https://github.com/wildeagency/ashid). IDs produced by this library are byte-for-byte interchangeable with the **upstream v1.0.3** Kotlin and TypeScript implementations (see [Upstream version notes](#upstream-version-notes) below - note that the published Maven JAR is older v1.0.0 and produces different output for prefixed IDs).
